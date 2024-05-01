@@ -1,0 +1,30 @@
+{
+  "name": "API server",
+  "version": "1.0.0",
+  "description": "API server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage",
+    "test-watch": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanChengDesign/basic-express-server.git"
+  },
+  "author": "Evan Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvanChengDesign/basic-express-server/issues"
+  },
+  "homepage": "https://github.com/EvanChengDesign/basic-express-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
