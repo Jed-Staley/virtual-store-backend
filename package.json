@@ -1,5 +1,5 @@
 {
-  "name": "API server",
+  "name": "basic-express-server",
   "version": "1.0.0",
   "description": "API server",
   "main": "index.js",
