@@ -1,8 +1,8 @@
 # Basic-Express-Server
 Dynamic API Phase 1: Build your core, standards compliant Express server
 
-### [Render URL](https://basic-express-server-djxl.onrender.com)
-https://basic-express-server-djxl.onrender.com
+### [Render URL](https://basic-express-server-92a3.onrender.com/)
+https://basic-express-server-92a3.onrender.com/
 ### Author: Evan Cheng
 ### Version: 1.0.0
 
